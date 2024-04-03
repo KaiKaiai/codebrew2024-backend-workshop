@@ -1,30 +1,26 @@
-# MERN Stack Project - Final Code
+# MERN Stack Project - Base Code
 
-This branch hosts the final version of the simple signup page.
+This branch contains the base code for the MERN stack project.
+We will create a simple signup page which can record the users who sign up.
+Workshop participants will fill the backend .js files during the workshop.
+Frontend code is given, so please refer to the frontend workshop for more information.
 
-## Download to a local device
+## Requirements
 
-To test this code, clone the repository and check out the `final` branch:
+https://docs.google.com/document/d/1dHABryWlVxH1-qq496gtM8VWi9koev5w1-OYemD84ME/edit?usp=sharing
+
+## Download
+To get started with the base code, clone the repository and check out the `main` branch:
+
 ```
 git clone https://github.com/KaiKaiai/codebrew2024-backend-workshop.git
-git checkout final
+git checkout main
 ```
 OR
 
-To test this code, download as a ZIP to extract into VSCode
+To get started with the base code, download as a ZIP to extract into VSCode
 
-## Test on a local device
+## Resources
 
-Recall to install dependancies in the frontend and backend directories:
-```
-npm install
-```
-
-Configure .env file to a live MongoDB Cluster.
-
-To run local frontend and backend servers:
-```
-npm start
-```
-
-Fill in form in frontend page and match with MongoDB collection.
+For recording + other Resources:
+https://drive.google.com/drive/folders/1ADf1ZDk6daVeGfpqKdLTKo_jJiZAxen4?usp=sharing
